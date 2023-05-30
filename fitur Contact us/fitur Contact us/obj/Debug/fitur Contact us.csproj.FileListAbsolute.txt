@@ -1,0 +1,11 @@
+D:\PBO\fitur Contact us\fitur Contact us\bin\Debug\fitur Contact us.exe.config
+D:\PBO\fitur Contact us\fitur Contact us\bin\Debug\fitur Contact us.exe
+D:\PBO\fitur Contact us\fitur Contact us\bin\Debug\fitur Contact us.pdb
+D:\PBO\fitur Contact us\fitur Contact us\obj\Debug\fitur Contact us.csproj.AssemblyReference.cache
+D:\PBO\fitur Contact us\fitur Contact us\obj\Debug\fitur Contact us.csproj.SuggestedBindingRedirects.cache
+D:\PBO\fitur Contact us\fitur Contact us\obj\Debug\fitur_Contact_us.FormContact.resources
+D:\PBO\fitur Contact us\fitur Contact us\obj\Debug\fitur_Contact_us.Properties.Resources.resources
+D:\PBO\fitur Contact us\fitur Contact us\obj\Debug\fitur Contact us.csproj.GenerateResource.cache
+D:\PBO\fitur Contact us\fitur Contact us\obj\Debug\fitur Contact us.csproj.CoreCompileInputs.cache
+D:\PBO\fitur Contact us\fitur Contact us\obj\Debug\fitur Contact us.exe
+D:\PBO\fitur Contact us\fitur Contact us\obj\Debug\fitur Contact us.pdb
